@@ -26,7 +26,11 @@ def validar_producto(codigo, nombre, precio, stock):
     """
     # TODO: Implementar validaciones siguiendo estos pasos:
     # 1. Validar tipos de datos
+    def validar_producto (codigo: str, nombre : str, precio: float, stock: int):
+        pass
+    
     # 2. Validar formato de código (alfanumérico)
+    
     # 3. Validar nombre no vacío
     # 4. Validar precio positivo
     # 5. Validar stock no negativo
