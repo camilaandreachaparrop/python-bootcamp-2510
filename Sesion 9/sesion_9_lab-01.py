@@ -23,12 +23,19 @@ def procesar_ventas(archivo_entrada, archivo_salida):
     """
     # TODO: Implementar el procesamiento siguiendo estos pasos:
     # 1. Leer el archivo de ventas línea por línea
+    with open (archivo_entrada, 'r') as f:
+        lineas = f.readlines()
+
     # 2. Por cada línea:
+    
+
+
     #    - Separar los campos (fecha,producto,cantidad,precio)
     #    - Calcular el total (cantidad * precio)
     #    - Acumular las ventas por producto
     # 3. Generar el reporte con los totales
-    
+
+     
     raise NotImplementedError("¡Función no implementada!")
 
 def main():
@@ -63,3 +70,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

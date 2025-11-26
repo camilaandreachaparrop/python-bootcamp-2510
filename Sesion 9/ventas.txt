@@ -1,0 +1,4 @@
+Laptop,1200
+Smartphone,800
+Tablet,500
+Auriculares,100
