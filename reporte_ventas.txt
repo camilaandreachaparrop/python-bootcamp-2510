@@ -1,0 +1,8 @@
+Reporte de Ventas por Producto
+-----------------------------
+Ventas por Producto:
+Laptop: $3600.00
+Smartphone: $800.00
+Tablet: $1500.00
+-----------------------------
+Total de Ventas: $5900.00

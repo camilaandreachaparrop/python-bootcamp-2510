@@ -1,0 +1,23 @@
+[
+    {
+        "Nombre": "Laptop  X16",
+        "Clave": "LTX16Pplus",
+        "Descripci\u00f3n": "Laptop de 16 pulgadas procesador Premium",
+        "Precio": 20000,
+        "Stock": 12
+    },
+    {
+        "Nombre": "Laptop  X13",
+        "Clave": "LTX13P",
+        "Descripci\u00f3n": "Laptop de 13 pulgadas procesador Medium",
+        "Precio": 13400,
+        "Stock": 35
+    },
+    {
+        "Nombre": "Tablet S23",
+        "Clave": "TBS23m08xx",
+        "Descripci\u00f3n": "Tablet S23 11 Pulgadas 8GB RAM",
+        "Precio": 9500,
+        "Stock": 78
+    }
+]
